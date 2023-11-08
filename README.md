@@ -1,16 +1,34 @@
-### Hi there 👋
+# Greetings and Salutations, I'm Gabriel Mack 🌟
 
-<!--
-**GabeeeM/GabeeeM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎶 On GitHub I've landed, with code and fun packed,
+To the world of git pushes, I'm no longer untracked.
+I'm Gabriel Mack, with a knack for the code,
+In the realm of the web, where my creations have glowed.
 
-Here are some ideas to get you started:
+## 🎮 Gamer's Verse
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In the land of Terraria, with mods aplenty,
+I roam and I craft, my adventures not empty.
+Minecraft's my canvas, with blocks wide and far,
+Crafting and building, beneath square sun and stars.
+
+## 💻 Code in Cadence
+
+JavaScript's my instrument, my artful expression,
+Crafting loops and functions, with careful discretion.
+Each line a verse, in a symphony of semicolons,
+Creating, innovating, like digital Apollos.
+
+## 🌐 Connect in Couplets
+
+Let's weave through the code, in patterns that rhyme,
+Share ideas and projects, through the annals of time.
+Fork, clone, and star, let's collaborate with zest,
+In this hub of creation, we're all among the best.
+
+---
+
+Thank you for stopping by, do explore and see,
+The code that I've written, shared with thee.
+If modded game worlds or JavaScript is your delight,
+Star my repos, let's code into the night!
